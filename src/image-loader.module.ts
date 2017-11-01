@@ -18,10 +18,10 @@ import { FileTransfer } from '@ionic-native/file-transfer';
     ImgLoader
   ]
 })
-export class IonicImageLoader {
+export class IonicAttributedImageLoader {
   static forRoot(): ModuleWithProviders {
     return {
-      ngModule: IonicImageLoader,
+      ngModule: IonicAttributedImageLoader,
       providers: [
         ImageLoaderConfig,
         ImageLoader,

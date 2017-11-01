@@ -1,6 +1,3 @@
 node_modules
-.gitignore
-.npmignore
-tsconfig.json
-.idea
 aot
+.idea
