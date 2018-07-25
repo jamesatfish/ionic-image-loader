@@ -6,7 +6,7 @@ import { Platform } from 'ionic-angular';
 import { Observable } from 'rxjs/Rx';
 // import { fromEvent } from 'rxjs';
 import 'rxjs/add/operator/first';
-import 'rxjs/add/Observable/fromEvent';
+// import 'rxjs/add/Observable/fromEvent';
 
 interface IndexItem {
   name: string;
